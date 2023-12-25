@@ -1,0 +1,23 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    background-color: #f0cbc3;
+    height: 100vh;
+}
+button{
+    width: 100px;
+    right: 40%;
+    
+}
+a{
+    width: 100px;
+    left: 40%;
+}
+.cant-say-no{
+    bottom: 10%;
+    right: 6%;
+}
